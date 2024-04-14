@@ -1,5 +1,5 @@
-Objetivos 
- Criar projeto Spring Boot Java 
+<Objetivos/>
+< Criar projeto Spring Boot Java/>
  Implementar modelo de domínio 
  Estruturar camadas lógicas: resource, service, repository 
  Configurar banco de dados de teste (H2) 
