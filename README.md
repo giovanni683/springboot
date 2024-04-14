@@ -25,11 +25,19 @@ Configurar o banco de dados H2 em seu projeto, utilizando a biblioteca Spring Bo
 Definir a URL de conexão, nome de usuário e senha para o banco de dados H2.
 
 Povoar o banco de dados:
+
 Criar scripts SQL para criar as tabelas do banco de dados e inserir dados iniciais.
+
 Executar os scripts SQL durante o processo de inicialização do aplicativo Spring Boot.
+
 CRUD - Create, Retrieve, Update, Delete:
+
 Implementar métodos nas classes de serviço para realizar as operações CRUD (Criar, Ler, Atualizar e Excluir) nas entidades do domínio.
+
 Utilizar as interfaces de repositório do Spring Data JPA para persistir os dados no banco de dados.
+
 Tratamento de exceções:
+
 Implementar mecanismos para capturar e tratar exceções durante a execução do aplicativo.
+
 Utilizar classes de exceção personalizadas para identificar e gerenciar diferentes tipos de erros.
